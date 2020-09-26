@@ -17,6 +17,10 @@ public void landingpage() {
 	System.out.println("holla111");
 	System.out.println("holla");
 	System.out.println("holla");
+	//afuigha;fg
+	System.out.println("holla111");
+	System.out.println("holla111");
+	System.out.println("holla111");
 }
 
 @When("login")
